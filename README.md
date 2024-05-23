@@ -1,6 +1,7 @@
 ### Graph Library
 ----------------------------------------------------------------------
-Overview
+#Overview
+------------------------------------------------------------------------
 This is a C++ library for representing and manipulating graphs using adjacency matrices. The library provides various functionalities including loading   graphs, printing graph details, and performing arithmetic and comparison operations on graphs.
 
 #Features
