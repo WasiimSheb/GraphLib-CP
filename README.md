@@ -1,7 +1,7 @@
 
 ---
 
-# GraphLib: A Comprehensive C++ Graph Library
+# GraphLib-CPP: A Comprehensive C++ Graph Library
 
 This repository contains a C++ library for representing and manipulating graphs using adjacency matrices. The library provides various functionalities including loading graphs, printing graph details, and performing arithmetic and comparison operations on graphs.
 
@@ -19,11 +19,11 @@ This repository contains a C++ library for representing and manipulating graphs 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/WasiimSheb/sp2exe2.git
+    git clone https://github.com/WasiimSheb/GraphLib-CPP.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd sp2exe2
+    cd GraphLib-CPP
     ```
 
 ## Compilation
